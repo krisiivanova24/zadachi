@@ -1,0 +1,6 @@
+c:\users\hristo\source\repos\spisyciUpr\bezOtricChisla\bin\Debug\bezOtricChisla.exe.config
+c:\users\hristo\source\repos\spisyciUpr\bezOtricChisla\bin\Debug\bezOtricChisla.exe
+c:\users\hristo\source\repos\spisyciUpr\bezOtricChisla\bin\Debug\bezOtricChisla.pdb
+c:\users\hristo\source\repos\spisyciUpr\bezOtricChisla\obj\Debug\bezOtricChisla.csproj.CoreCompileInputs.cache
+c:\users\hristo\source\repos\spisyciUpr\bezOtricChisla\obj\Debug\bezOtricChisla.exe
+c:\users\hristo\source\repos\spisyciUpr\bezOtricChisla\obj\Debug\bezOtricChisla.pdb

@@ -1,0 +1,7 @@
+c:\users\hristo\source\repos\spisyciUpr\kvadrati\bin\Debug\kvadrati.exe.config
+c:\users\hristo\source\repos\spisyciUpr\kvadrati\bin\Debug\kvadrati.exe
+c:\users\hristo\source\repos\spisyciUpr\kvadrati\bin\Debug\kvadrati.pdb
+c:\users\hristo\source\repos\spisyciUpr\kvadrati\obj\Debug\kvadrati.csprojResolveAssemblyReference.cache
+c:\users\hristo\source\repos\spisyciUpr\kvadrati\obj\Debug\kvadrati.csproj.CoreCompileInputs.cache
+c:\users\hristo\source\repos\spisyciUpr\kvadrati\obj\Debug\kvadrati.exe
+c:\users\hristo\source\repos\spisyciUpr\kvadrati\obj\Debug\kvadrati.pdb

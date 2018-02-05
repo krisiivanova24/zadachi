@@ -1,0 +1,7 @@
+c:\users\hristo\source\repos\spisyciUpr\slivane\bin\Debug\slivane.exe.config
+c:\users\hristo\source\repos\spisyciUpr\slivane\bin\Debug\slivane.exe
+c:\users\hristo\source\repos\spisyciUpr\slivane\bin\Debug\slivane.pdb
+c:\users\hristo\source\repos\spisyciUpr\slivane\obj\Debug\slivane.csprojResolveAssemblyReference.cache
+c:\users\hristo\source\repos\spisyciUpr\slivane\obj\Debug\slivane.csproj.CoreCompileInputs.cache
+c:\users\hristo\source\repos\spisyciUpr\slivane\obj\Debug\slivane.exe
+c:\users\hristo\source\repos\spisyciUpr\slivane\obj\Debug\slivane.pdb
